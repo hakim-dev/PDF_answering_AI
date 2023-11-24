@@ -63,7 +63,7 @@ def handle_userinput(user_question):
 
 
 def main():
-    st.set_page_config(page_title="Chat with multiple PDFs",
+    st.set_page_config(page_title="Chat with PDFs",
                        page_icon=":books:")
     st.write(css, unsafe_allow_html=True)
 
